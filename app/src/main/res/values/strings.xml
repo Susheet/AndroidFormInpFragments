@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Project1_3</string>
+    <string-array name="streams">
+        <item>Information technology</item>
+        <item>Mechanical</item>
+        <item>Electrical</item>
+        <item>Civil</item>
+        <item>Electronics</item>
+    </string-array>
+</resources>
